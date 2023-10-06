@@ -1,5 +1,5 @@
 {
-    "token": "Replace with your bot token",
+	"token": "Replace with your bot token",
 	"apytoken": "",
 	"botowner": "Replace with your Discord user ID",
 	"supportserver": "Replace with invite to your support server, or leave empty for none."
